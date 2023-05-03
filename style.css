@@ -1,8 +1,8 @@
 :root {
-    --primeira-cor: aquamarine;
-    --segunda-cor: rgb(206, 255, 239);
-    --terceira-cor: rgb(172, 127, 255);
-    --quarta-cor: rgb(88, 86, 86);
+    --primeira-cor: rgb(108, 247, 200);
+    --segunda-cor: rgb(183, 255, 231);
+    --terceira-cor: rgb(154, 111, 235);
+    --quarta-cor: rgb(71, 71, 71);
 }
 
 * {
